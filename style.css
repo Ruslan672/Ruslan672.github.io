@@ -1,0 +1,23 @@
+  
+h1 {
+    color: rgb(52, 185, 40);
+    background-color: rgb(126, 101, 34);
+    border: 10px solid rgb(43, 12, 102);
+    border-radius: 35px;
+    padding: 18px;
+    }
+    
+    h3:hover 
+    {
+    color: rgb(255, 0, 0);
+    text-shadow: 1px 1px 2px rgb(41, 165, 89), 0 0 1em rgb(255, 0, 0);
+    font-size:14pt;
+    }
+
+    h3 
+    {
+        color: rgb(255, 0, 0);
+        text-shadow: 1px 1px 2px rgb(41, 165, 89), 0 0 1em rgb(255, 0, 0);
+        font-size:20pt;
+        
+    }
