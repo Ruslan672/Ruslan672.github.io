@@ -40,3 +40,12 @@ function Show()
     alert( country );
     alert( city );
 }
+
+var secondname = " ";
+
+document.getElementById('btn').addEventListener("click", Rename);
+
+function Rename(){
+	secondname = document.getElementById('_secondname').value;
+	document.getElementById('secondname').innerText = "Фамилия: " + secondname;
+}
